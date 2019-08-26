@@ -1,3 +1,3 @@
-# HTMap Workshop - September 16, 2019
+# OSG Workshop @ Gateways 2019 - September 23, 2019
 
-Hosted by CHTC. Register here, by September 12: [Registration Form](https://docs.google.com/forms/d/e/1FAIpQLSf7L3kX_BklFyk1JhO8GlymaxsjpQrdQ_D8gvEwbx2qJqpAXw/viewform?usp=sf_link)
+[Website](https://swc-osg-workshop.github.io/OSG-UserTraining-Gateways-2019/)
