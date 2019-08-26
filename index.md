@@ -22,6 +22,8 @@ For a workshop please delete the following block
 {% endcomment %}
 <div class="alert alert-info" style="font-size: 120%;">
 Could your Gateway or other computational work benefit from the ability to concurrently run hundreds or thousands of independent computations, for free? The Open Science Grid (OSG) facilitates distributed high-throughput computing (dHTC) via a partnership of national labs, universities, and other organizations who contribute and share computing capacity for use by researchers across and beyond the United States. Individual researchers, institutions, or multi-institutional collaborations can access OSG via local submission points or through the OSG Connect service (freely available to U.S. academic, government, and non-profit researchers).   
+  
+  
   During this 3-hour tutorial, you'll learn to run examples of large HTC workloads and multi-step workflows via the OSG Connect service, including discussion of the support available to gateway developers through OSG. If time permits, the OSG User Support team will also help you run your own sample workload on OSG.
 </div>
 
