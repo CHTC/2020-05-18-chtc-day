@@ -11,7 +11,7 @@ humantime: "1:30pm - 5:00pm"    # human-readable times for the workshop (e.g., "
 startdate: 2019-09-23      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
 enddate: 2019-09-23        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
 instructor: ["Christina Koch", "Mats Rynge"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
-helper: [""]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
+# helper: [""]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 email: ["ckoch5@wisc.edu"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
 collaborative_notes:             # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document
 eventbrite:           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
@@ -21,8 +21,7 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 For a workshop please delete the following block
 {% endcomment %}
 <div class="alert alert-info" style="font-size: 120%;">
-Could your Gateway or other computational work benefit from the ability to concurrently run hundreds or thousands of independent computations, for free? The Open Science Grid (OSG) facilitates distributed high-throughput computing (dHTC) via a partnership of national labs, universities, and other organizations who contribute and share computing capacity for use by researchers across and beyond the United States. Individual researchers, institutions, or multi-institutional collaborations can access OSG via local submission points or through the OSG Connect service (freely available to U.S. academic, government, and non-profit researchers).   
-  
+Could your Gateway or other computational work benefit from the ability to concurrently run hundreds or thousands of independent computations, for free? The Open Science Grid (OSG) facilitates distributed high-throughput computing (dHTC) via a partnership of national labs, universities, and other organizations who contribute and share computing capacity for use by researchers across and beyond the United States. Individual researchers, institutions, or multi-institutional collaborations can access OSG via local submission points or through the OSG Connect service (freely available to U.S. academic, government, and non-profit researchers).   <br>
   
   During this 3-hour tutorial, you'll learn to run examples of large HTC workloads and multi-step workflows via the OSG Connect service, including discussion of the support available to gateway developers through OSG. If time permits, the OSG User Support team will also help you run your own sample workload on OSG.
 </div>
@@ -135,10 +134,12 @@ Display the contact email address set in the configuration file.
   <div class="col-md-6">
     <h3>Schedule</h3>
     <table class="table table-striped">
-      <tr><td>2:00-2:40</td> <td>Intro and Demonstration</td></tr>
-      <tr><td>2:40-3:10</td><td>Questions and Break</td></tr>
-      <tr><td>3:10-4:00</td><td>Extended Example</td></tr>
-			<tr> <td>4:00-5:00</td> <td>Optional Question Time with Josh</td> </tr>
+      <tr><td>1:30-2:10</td> <td>Introduction to the Open Science Grid</td> <td>Slides</td></tr>
+      <tr><td>2:10-2:30</td><td>Introduction to Job Submission with HTCondor</td><td>Tutorial</td></tr>
+      <tr><td>2:30-3:00</td><td>Submitting Multiple Jobs with HTCondor</td><td>Tutorial</td></tr>
+      <tr><td>3:00-3:30</td><td>Break</td><td></td></tr>
+      <tr><td>3:30-4:15</td><td>Additional HTCondor Features</td><td>Slides</td></tr>
+      <tr><td>4:15-5:00</td><td>BLAST workflow example</td><td>Tutorial</td></tr>
     </table>
   </div>
 </div>
