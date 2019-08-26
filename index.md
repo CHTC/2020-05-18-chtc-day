@@ -131,7 +131,7 @@ Display the contact email address set in the configuration file.
 </p>
 
 <div class="row">
-  <div class="col-md-1">
+  <div class="col-md-8">
     <h2>Schedule and Links</h2>
     <table class="table table-striped">
       <tr><td>1:30-2:10</td> <td>Introduction to the Open Science Grid</td> <td>Slides</td></tr>
