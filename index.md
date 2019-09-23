@@ -2,7 +2,7 @@
 layout: workshop      # DON'T CHANGE THIS.
 carpentry: "cp"    # what kind of Carpentry (must be either "lc" or "dc" or "swc").  
 venue: "Gateways 2019 - Deploy jobs on the Open Science Grid"        # brief name of host site without address (e.g., "Euphoric State University")
-address: "Tutorial Room 3, Catamaran Resort & Spa, 3999 Mission Blvd., San Diego, CA 92109"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria")
+address: "Cockatoo Room, Catamaran Resort & Spa, 3999 Mission Blvd., San Diego, CA 92109"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria")
 country: "us"      # lowercase two-letter ISO country code such as "fr" (see https://en.wikipedia.org/wiki/ISO_3166-1#Current_codes)
 language: "en"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes)
 latlng: "32.7903116,-117.2546711"       # decimal latitude and longitude of workshop venue (e.g., "41.7901128,-87.6007318" - use https://www.latlong.net/)
