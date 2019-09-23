@@ -134,7 +134,7 @@ Display the contact email address set in the configuration file.
   <div class="col-md-8">
     <h2>Schedule and Links</h2>
     <table class="table table-striped">
-      <tr><td>1:30-2:10</td> <td>Introduction to the Open Science Grid</td> <td>Slides</td></tr>
+      <tr><td>1:30-2:10</td> <td>Introduction to the Open Science Grid</td> <td><a href="https://docs.google.com/presentation/d/1TpLzOx2A9IRKZbZKV7XS4lR72-Eo8R9N5dj5Z0l3gxA/edit?usp=sharing">Slides</a></td></tr>
       <tr><td>2:10-2:30</td><td>Introduction to Job Submission with HTCondor</td><td><a href="https://support.opensciencegrid.org/support/solutions/articles/5000633410-osg-connect-quickstart">Tutorial</a></td></tr>
       <tr><td>2:30-2:40</td><td>Where Jobs Run in the OSG</td><td><a href="https://support.opensciencegrid.org/support/solutions/articles/12000061978-finding-osg-locations">Tutorial</a></td></tr>
       <tr><td>2:40-3:00</td><td>Submitting Multiple Jobs with HTCondor</td><td>Tutorial</td></tr>
