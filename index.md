@@ -21,13 +21,15 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 For a workshop please delete the following block
 {% endcomment %}
 <div class="alert alert-danger" style="font-size: 120%;">
-Join the CHTC facilitation team and your fellow CHTC users at CHTC Day 2020!
+Have you ever wondered about how other people are using the CHTC for research or wanted
+to learn more about how to run work in CHTC?
 
+Join the CHTC facilitation team and your fellow CHTC users at CHTC Day 2020 and:
 <ul>
 <li>Learn more about how other people are using CHTC.</li>
 <li>Connect with other CHTC users and share ideas and tips.</li>
 <li>Get the latest updates on CHTC's capabilities.</li>
-<li>Meet other CHTC staff and take a tour of a server room</li>
+<li>Meet CHTC staff and take a tour of a server room</li>
 </ul>
 
 <h2>Save the date - registration opening in April</h2>
@@ -138,16 +140,21 @@ Display the contact email address set in the configuration file.
 <div class="row">
   <div class="col-md-8">
     <h2>Schedule and Links</h2>
+
+
     <table class="table table-striped">
-      <tr><td>1:30-2:10</td> <td>Introduction to the Open Science Grid</td> <td><a href="https://docs.google.com/presentation/d/1TpLzOx2A9IRKZbZKV7XS4lR72-Eo8R9N5dj5Z0l3gxA/edit?usp=sharing">Slides</a></td></tr>
-      <tr><td>2:10-2:30</td><td>Introduction to Job Submission with HTCondor</td><td><a href="https://support.opensciencegrid.org/support/solutions/articles/5000633410-osg-connect-quickstart">Tutorial</a></td></tr>
-      <tr><td>2:30-2:40</td><td>Where Jobs Run in the OSG</td><td><a href="https://support.opensciencegrid.org/support/solutions/articles/12000061978-finding-osg-locations">Tutorial</a></td></tr>
-      <tr><td>2:40-3:00</td><td>Submitting Multiple Jobs with HTCondor</td><td><a href="https://support.opensciencegrid.org/support/solutions/articles/12000062019-scaling-up-python">Tutorial</a></td></tr>
-      <tr><td>3:00-3:30</td><td>Break</td><td></td></tr>
-      <tr><td>3:30-4:15</td><td>Additional HTCondor Features</td><td><a href="https://docs.google.com/presentation/d/1MMLMFzqqJY7z1mcHJD3A_EuiqU1docq5ld2QlVFPz2s/edit?usp=sharing">Slides</a></td></tr>
-      <tr><td>4:15-5:00</td><td>BLAST workflow example</td><td><a href="https://support.opensciencegrid.org/support/solutions/articles/12000062020-blast-example-with-split-files">Tutorial</a></td></tr>
+      <tr><td>9:00 - 9:20</td> <td>Introduction to CHTC</td></tr>
+      <tr><td>9:20 - 10:25</td><td>CHTC User Lightning Talks</td></tr>
+      <tr><td>10:25 - 10:30</td><td>Meet the CHTC Team</td></tr>
+      <tr><td>10:30 - 10:45</td><td>Break / Optional Tour</td></tr>
+      <tr><td>10:45 - 11:25</td><td>Break</td></tr>
+      <tr><td>11:25 - 12:15</td><td>CHTC User "Birds of a Feather"</td></tr>
+      <tr><td>12:15 - 1:30</td><td>Break (no lunch provided)</td></tr>
+      <tr><td>1:30 - 2:45</td><td>HTCondor User Tutorial</td></tr>
+      <tr><td>2:45 - 3:00</td><td>Break</td></tr>
+      <tr><td>3:00 - 4:00</td><td>DAGMan Tutorial</td></tr>
+      <tr><td>4:00 - 5:00</td><td>Office Hours</td></tr>
     </table>
   </div>
 </div>
-
 
