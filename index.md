@@ -21,16 +21,19 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 For a workshop please delete the following block
 {% endcomment %}
 <div class="alert alert-danger" style="font-size: 120%;">
-Have you ever wondered about how other people are using the CHTC for research or wanted
-to learn more about how to run work in CHTC?
+<p>Have you ever wondered how other people are using the CHTC for research or wanted
+to learn more using the CHTC?</p>
 
 Join the CHTC facilitation team and your fellow CHTC users at CHTC Day 2020 and:
 <ul>
-<li>Learn more about how other people are using CHTC.</li>
-<li>Connect with other CHTC users and share ideas and tips.</li>
+<li>Learn more about how other researchers are using CHTC.</li>
+<li>Share ideas and tips with other CHTC users. </li>
 <li>Get the latest updates on CHTC's capabilities.</li>
 <li>Meet CHTC staff and take a tour of a server room</li>
 </ul>
+
+<p>You're welcome to attend all of CHTC Day, or just the part that interests you.
+See our general schedule below for details. </p>
 
 <h2>Save the date - registration opening in April</h2>
 
@@ -139,15 +142,14 @@ Display the contact email address set in the configuration file.
 
 <div class="row">
   <div class="col-md-8">
-    <h2>Schedule and Links</h2>
-
+    <h2>Schedule</h2>
 
     <table class="table table-striped">
       <tr><td>9:00 - 9:20</td> <td>Introduction to CHTC</td></tr>
       <tr><td>9:20 - 10:25</td><td>CHTC User Lightning Talks</td></tr>
       <tr><td>10:25 - 10:30</td><td>Meet the CHTC Team</td></tr>
       <tr><td>10:30 - 10:45</td><td>Break / Optional Tour</td></tr>
-      <tr><td>10:45 - 11:25</td><td>Break</td></tr>
+      <tr><td>10:45 - 11:25</td><td>CHTC Team Lightning Talks + Questions</td></tr>
       <tr><td>11:25 - 12:15</td><td>CHTC User "Birds of a Feather"</td></tr>
       <tr><td>12:15 - 1:30</td><td>Break (no lunch provided)</td></tr>
       <tr><td>1:30 - 2:45</td><td>HTCondor User Tutorial</td></tr>
