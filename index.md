@@ -1,18 +1,18 @@
 ---
 layout: workshop      # DON'T CHANGE THIS.
-carpentry: "cp"    # what kind of Carpentry (must be either "lc" or "dc" or "swc").  
-venue: "Gateways 2019 - Deploy jobs on the Open Science Grid"        # brief name of host site without address (e.g., "Euphoric State University")
-address: "Cockatoo Room, Catamaran Resort & Spa, 3999 Mission Blvd., San Diego, CA 92109"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria")
+carpentry: "cp"    # what kind of Carpentry (must be either "lc" or "dc" or "swc").
+venue: "CHTC Day"        # brief name of host site without address (e.g., "Euphoric State University")
+address: "Orchard View Room, Discovery Building, 350 N. Orchard St."      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria")
 country: "us"      # lowercase two-letter ISO country code such as "fr" (see https://en.wikipedia.org/wiki/ISO_3166-1#Current_codes)
 language: "en"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes)
-latlng: "32.7903116,-117.2546711"       # decimal latitude and longitude of workshop venue (e.g., "41.7901128,-87.6007318" - use https://www.latlong.net/)
-humandate: "September 23, 2019"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
-humantime: "1:30pm - 5:00pm"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
-startdate: 2019-09-23      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
-enddate: 2019-09-23        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
-instructor: ["Christina Koch", "Mats Rynge"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
+latlng: "43.072896,-89.4097526"       # decimal latitude and longitude of workshop venue (e.g., "41.7901128,-87.6007318" - use https://www.latlong.net/)
+humandate: "May 18, 2020"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
+humantime: "9:00am - 5:00pm"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
+startdate: 2020-05-18      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
+enddate: 2020-05-18        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
+instructor: ["Josh Karpel", "Christina Koch", "Lauren Michael", "Jess Vera"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
 # helper: [""]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
-email: ["ckoch5@wisc.edu"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
+email: ["chtc@cs.wisc.edu"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
 collaborative_notes:             # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document
 eventbrite:           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
 ---
@@ -20,10 +20,18 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 {% comment %}
 For a workshop please delete the following block
 {% endcomment %}
-<div class="alert alert-warning" style="font-size: 120%;">
-Could your Gateway or other computational work benefit from the ability to concurrently run hundreds or thousands of independent computations, for free? The Open Science Grid (OSG) facilitates distributed high-throughput computing (dHTC) via a partnership of national labs, universities, and other organizations who contribute and share computing capacity for use by researchers across and beyond the United States. Individual researchers, institutions, or multi-institutional collaborations can access OSG via local submission points or through the OSG Connect service (freely available to U.S. academic, government, and non-profit researchers).   <br>
-  
-  During this 3-hour tutorial, you'll learn to run examples of large HTC workloads and multi-step workflows via the OSG Connect service, including discussion of the support available to gateway developers through OSG. If time permits, the OSG User Support team will also help you run your own sample workload on OSG.
+<div class="alert alert-danger" style="font-size: 120%;">
+Join the CHTC facilitation team and your fellow CHTC users at CHTC Day 2020!
+
+<ul>
+<li>Learn more about how other people are using CHTC.</li>
+<li>Connect with other CHTC users and share ideas and tips.</li>
+<li>Get the latest updates on CHTC's capabilities.</li>
+<li>Meet other CHTC staff and take a tour of a server room</li>
+</ul>
+
+<h2>Save the date - registration opening in April</h2>
+
 </div>
 
 {% comment %}
@@ -83,9 +91,6 @@ SPECIAL REQUIREMENTS
 
 Modify the block below if there are any special requirements.
 {% endcomment %}
-<p id="requirements">
-  <strong>Requirements:</strong> A computer with an ssh client. We will have training/test accounts for participants to test-drive job submission in the Open Science Grid. 
-</p>
 
 {% comment %}
 
